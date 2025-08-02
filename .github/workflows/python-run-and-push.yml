@@ -26,12 +26,6 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v4 # Official GitHub action to clone the repo
 
-      # Setup GIT creds.
-      - name: Setup GIT Creds
-        run: |
-          git config user.name "github-actions"  # Set Git username for commit
-          git config user.email "github-actions@github.com"  # Set Git email for commit
-
       # Set up the Go environment
       - name: Set up Go
         uses: actions/setup-go@v5 # Official GitHub action to install Go
@@ -47,13 +41,6 @@ jobs:
       # Install Python dependencies
       - name: Install dependencies
         run: pip install -r requirements.txt
-
-      # Run the main.go script
-      - name: Run main.go
-        run: |
-          python main.py &
-          go run main.go &
-          bash main.sh
 
       # Run the main.go script
       - name: Run main.go
