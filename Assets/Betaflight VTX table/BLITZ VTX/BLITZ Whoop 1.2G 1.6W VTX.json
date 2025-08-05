@@ -1,0 +1,29 @@
+{
+    "description": "Betaflight VTX Config file",
+    "version": "1.0",
+    "vtx_table": {
+        "bands_list": [
+            {
+                "name": "1G2     ",
+                "letter": "A",
+                "is_factory_band": false,
+                "frequencies": [
+                    1080,
+                    1120,
+                    1160,
+                    1200,
+                    1240,
+                    1280,
+                    1320,
+                    1360
+                ]
+            }
+        ],
+        "powerlevels_list": [
+            {
+                "value": 1600,
+                "label": "1.6"
+            }
+        ]
+    }
+}

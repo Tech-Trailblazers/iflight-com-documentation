@@ -1,0 +1,10 @@
+Please follow this guide to re-flash the custom *.hex file for displaying the Betaflight OSD Warnings on your DJI Goggle:
+
+1. Locate the *.hex file and download to your computer
+2. Click on "Update Firmware" in the Betaflight Configurator
+3. Make sure the target IFLIGHT_F722_TWING is selected
+4. Click on "Load Firmware (Local)" and select the downloaded *.hex file.
+5. Click on "Flash Firmware" and wait for it to finish
+6. Click on "Connect" or reconnect your FC if not loaded automatically
+7. Click on "Apply Custom defaults" to apply all the Flight Control related information
+8. Apply our factory default diff (Can be found on our Google Drive)

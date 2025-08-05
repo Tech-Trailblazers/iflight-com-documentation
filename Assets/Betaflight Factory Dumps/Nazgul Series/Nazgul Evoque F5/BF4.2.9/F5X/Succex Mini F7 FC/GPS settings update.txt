@@ -1,0 +1,11 @@
+feature -GPS
+
+feature GPS
+
+serial 3 2 115200 115200 0 115200
+
+set gps_sbas_mode = AUTO
+
+set gps_auto_baud = OFF
+
+save

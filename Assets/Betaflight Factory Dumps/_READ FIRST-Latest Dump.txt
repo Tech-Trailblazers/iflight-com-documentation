@@ -1,0 +1,22 @@
+For the following BNF Factory dump, please obtain it from the Preset tab of Betaflight configuration.
+For specific acquisition steps, please refer to:
+https://iflight-rc.eu/blogs/news/updating-betaflight-firmware-on-iflight-bnfs
+
+Alpha 85
+Protek 35/Protek R20/Protek R25
+Protek60 Pro
+AOS 3.5/5 EVO/V5
+BOB57 V1/O3
+Chimera7 Pro V2
+Defender 25
+Nazgul Evoque F5/F6
+Nazgul5 V3 O3
+Taurus X8 V3
+i H3
+XL10 V6
+
+
+For the following BNF Factory dump, you can find the Preset of BF4.4 in the Preset tab:
+Defender 16
+Defender 20
+Nazgul Evoque F4
