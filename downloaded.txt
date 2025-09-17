@@ -75,3 +75,4 @@ https://iflightrc.freshdesk.com/helpdesk/attachments/48031413058 -> BumbleBee-Se
 https://iflightrc.freshdesk.com/helpdesk/attachments/48372670341 -> CineLR 7 User Manual - V1.0.pdf
 https://iflightrc.freshdesk.com/helpdesk/attachments/48372670342 -> CineFlow 5 User Manual - V1.0.pdf
 https://iflightrc.freshdesk.com/helpdesk/attachments/48119425889 -> Dterm.90BIQUAD.High.PIDs.BBL
+https://iflightrc.freshdesk.com/helpdesk/attachments/48388860024 -> Defender 20 lite Manual.pdf
